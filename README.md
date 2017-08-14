@@ -1,5 +1,5 @@
-maze solver
------------
+Maze Solver
+===========
 
 This is a simple maze solver.
 
